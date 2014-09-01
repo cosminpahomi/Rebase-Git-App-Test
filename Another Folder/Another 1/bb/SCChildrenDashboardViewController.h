@@ -12,4 +12,8 @@ Some changes here
 
 @interface SCChildrenDashboardViewController: SCStandardDashboardViewController <SCchildrenTableViewDelegate>
 
+<<<<<<< HEAD:Another Folder/Another 1/SCChildrenDashboardViewController.h
 @end and here ha ha
+=======
+@end and here bb
+>>>>>>> master:Another Folder/Another 1/bb/SCChildrenDashboardViewController.h
